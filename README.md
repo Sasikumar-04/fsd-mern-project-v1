@@ -1,1 +1,1 @@
-# fsd-mern-project-v1
+# DocSpot - Doctor Booking Appoinment System
